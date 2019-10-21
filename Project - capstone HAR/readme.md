@@ -1,3 +1,6 @@
+# Human Activity Recognition from Smartphone Sensory Data
+
+
 1. **Project Overview**
 
     The availability of affordable wearable equipments and portable computing devices results in behemoth amount of data being collected including motion, location, physiological signals and environmental information. The human activity recognition (HAR) is an active research field to understand how human behaviours are developed by interpreting attributes derived from this data. Accurately solving HAR problems can provide direct assistance in many fields including healthcare, transportation and virtual reality. 
